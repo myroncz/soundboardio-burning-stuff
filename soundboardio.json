@@ -1,0 +1,82 @@
+{
+  "name": "Pulp Fiction",
+  "shortName": "pulp-fiction",
+  "description": "Does he look like a bitch?",
+  "story": [
+    "Pulp Fiction is a 1994 film directed by Quentin Tarantino, known for its nonlinear storytelling and stylized violence.",
+    "The movie weaves together several interconnected stories involving gangsters, hitmen, and other morally complex characters, set against a darkly comedic backdrop.",
+    "Its iconic dialogue, memorable scenes, and eclectic soundtrack have cemented it as a classic in modern cinema and a defining work of Tarantino's career."
+  ],
+  "color": "#943100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "583x330",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Ahh",
+      "filename": "ahh.mp3"
+    },
+    {
+      "name": "Do something",
+      "filename": "do something.mp3"
+    },
+    {
+      "name": "Filip",
+      "filename": "Filip.mp3"
+    },
+    {
+      "name": "I felt a smell of burning stuff",
+      "filename": "i felt a smell of burning stuff.mp3"
+    },
+    {
+      "name": "People from the museum should come",
+      "filename": "people from the museum should come.mp3"
+    },
+    {
+      "name": "Please",
+      "filename": "Please.mp3"
+    },
+    {
+      "name": "Sorry i dont know what to say",
+      "filename": "sorry i dont know what to say.mp3"
+    },
+    {
+      "name": "The police bombay just arrived",
+      "filename": "the police bombay just arrived.mp3"
+    },
+    {
+      "name": "The the the",
+      "filename": "the the the.mp3"
+    }
+  ],
+  "lyrics": [
+    "You ever read the Bible, Brett?",
+    "There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17.",
+    "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.",
+    "Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children.",
+    "And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers.",
+    "And you will know my name is the Lord when I lay my vengeance upon you."
+  ]
+}
