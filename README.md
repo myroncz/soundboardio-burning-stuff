@@ -14,7 +14,7 @@
    - Prepare **icons** (you will need at least two icons if you want your app to be installable). [See this example](https://github.com/soundboardio/soundboardio-pulp-fiction/blob/master/soundboardio.json#L13)
 2. Now you can just open your shiny new app with your own url. It's working automagically.
 
-> If your repository is called https://github.com/ `aquasoup/soundboardio-pulp-fiction` your SoundBoardio url will be https://soundboardio.com/ `app/aquasoup/pulp-fiction`
+> If your repository is called https://github.com/ `myroncz/soundboardio-burning-stuff` your SoundBoardio url will be https://soundboardio.com/app/myroncz/burning-stuff
 
 ## Donation ❤️
 
